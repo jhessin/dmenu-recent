@@ -6,3 +6,4 @@ install_pulse
 rm_pulse
 terminal
 top
+gksu
